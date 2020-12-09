@@ -1,0 +1,9 @@
+[submodule "cateringapp-ui"]
+	path = cateringapp-ui
+	url = https://github.com/sf-fresher-batch-2020/cateringapp-ui.git
+[submodule "cateringapp-mock-api"]
+	path = cateringapp-mock-api
+	url = https://github.com/sf-fresher-batch-2020/cateringapp-mock-api.git
+[submodule "cateringapp-angular-ui"]
+	path = cateringapp-angular-ui
+	url = https://github.com/sf-fresher-batch-2020/cateringapp-angular-ui.git
